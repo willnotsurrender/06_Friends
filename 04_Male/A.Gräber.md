@@ -1,5 +1,5 @@
 # TODO
-- Quit foodies group
+- Quit foodies groups on whatsapp
 - Identify "Super-Foody" in 2020
 - Nothing else to do
 
