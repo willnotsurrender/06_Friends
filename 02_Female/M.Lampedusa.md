@@ -1,2 +1,4 @@
 # Aliases
 - Lambrusko
+- Lethargie
+- 
