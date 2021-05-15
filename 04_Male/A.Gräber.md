@@ -6,4 +6,4 @@
 # Learnings
 - Don't steal
 - Remember friends
-- Lead your company and not my company
+- Lead your company and not my company and diffe whatsapp groups with my company
