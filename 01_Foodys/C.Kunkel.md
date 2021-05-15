@@ -1,2 +1,2 @@
 # TODO
-- Write leaks articles and escalate to chefredakteur
+- Write leak articles and escalate to chefredakteur
