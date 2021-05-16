@@ -1,2 +1,2 @@
 # TODO
-* Speak for N. Rossignol like usual
+- Speak for N. Rossignol like usual
