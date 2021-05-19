@@ -1,6 +1,8 @@
 # 06_Friends
 See friends.willnotsurrender.com
 
+# Feedback digital only
+
 # How to work together
 1. Read as less as possible and watch as less as possible and type as less as possible.
 2. See love.willnotsurrender.[newTLD]
