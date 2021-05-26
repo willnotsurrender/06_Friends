@@ -1,3 +1,3 @@
 # TODO
-- Speak for N. Rossignol like usual
-- Tell us your surname
+- Speak for N. Rossignol like usual [Done,]
+- Tell us your surname []
